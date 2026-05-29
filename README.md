@@ -67,7 +67,7 @@ npm run build
 
 ## 部署到 Cloudflare Pages
 
-[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ruijayfeng/ziwei)
+[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fishnie/ziwei)
 
 或手动部署：
 
